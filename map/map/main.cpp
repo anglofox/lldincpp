@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  list.cpp
+//  map
 //
 //  Created by Angela Fox on 3/1/16.
 //  Copyright © 2016 Angela Fox. All rights reserved.
